@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test-classes" path="test"/>
+	<classpathentry kind="con" path="com.gwtplugins.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/aabello/Documents/NetBeansProjects/profixclient/lib/gwt-material-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aabello/Documents/NetBeansProjects/profixclient/lib/gwt-material-addins-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aabello/Documents/NetBeansProjects/profixclient/lib/gwt-material-themes-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aabello/Documents/NetBeansProjects/profixclient/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aabello/Documents/NetBeansProjects/profixclient/lib/restygwt-1.2.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
